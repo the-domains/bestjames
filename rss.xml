@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Best James]]></title>
         <description><![CDATA[Best James]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bestjames/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 01:55:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 01:56:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bestjames/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f06c1f09-0524-41b5-aa4b-2b6d0730c3b2.jpg">]]></description>
+            <link>https://thegrid.ai/bestjames/e3381a9c-9a63-45ef-92ad-fdf7d1da17cc/index.html</link>
+            <guid isPermaLink="false">e3381a9c-9a63-45ef-92ad-fdf7d1da17cc</guid>
+            <pubDate>Sat, 21 May 2016 01:56:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4bc0474-1f06-4391-8764-e9f3e2084c90.jpg">]]></description>
-            <link>undefinedcf5b5b30-d0c3-4155-bb4e-065b3ff69083/index.html</link>
+            <link>https://thegrid.ai/bestjames/cf5b5b30-d0c3-4155-bb4e-065b3ff69083/index.html</link>
             <guid isPermaLink="false">cf5b5b30-d0c3-4155-bb4e-065b3ff69083</guid>
             <pubDate>Sat, 21 May 2016 01:55:25 GMT</pubDate>
         </item>
