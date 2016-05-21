@@ -4,8 +4,15 @@
         <description><![CDATA[Joey's Story]]></description>
         <link>https://thegrid.ai/bestjames/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 02:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 02:02:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bestjames/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d17beaeb-72f1-4c7f-b8c6-febc00b515bd.jpg">]]></description>
+            <link>https://thegrid.ai/bestjames/7c4000d5-568a-4c9b-a977-7ea462acbfae/index.html</link>
+            <guid isPermaLink="false">7c4000d5-568a-4c9b-a977-7ea462acbfae</guid>
+            <pubDate>Sat, 21 May 2016 02:01:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Work on everything until you figure out what to work on. Then work on nothing else.</p>]]></description>
