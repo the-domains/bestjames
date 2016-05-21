@@ -4,8 +4,15 @@
         <description><![CDATA[Joey's Story]]></description>
         <link>https://thegrid.ai/bestjames/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 02:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 02:26:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bestjames/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>LinkedIn</p>]]></description>
+            <link>https://thegrid.ai/bestjames/linkedin/index.html</link>
+            <guid isPermaLink="false">d03c0d07-0d70-4e2a-a6f0-80fbb13dd5d1</guid>
+            <pubDate>Sat, 21 May 2016 02:26:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Always be the Best. </p>]]></description>
