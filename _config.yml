@@ -1,0 +1,28 @@
+name: Best James
+favicon: null
+layout_spectrum: 0.5992972096428275
+typography_spectrum: 0.4516566644888371
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3223795380908996
+  lightness: 0.4992845975793898
+  saturation: 0.15823369100689888
+  rhythmicContrast: 0.08994138101115823
+purpose: []
