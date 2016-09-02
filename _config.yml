@@ -1,7 +1,18 @@
+layout_spectrum: 0.26916548050940037
+typography_spectrum: 0.2962125185877085
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.625210513593629
+  lightness: 0.4080008650198579
+  saturation: 0.22273088968358934
+  rhythmicContrast: 0.7049022542778403
 name: Best James
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.14144
 title: Joseph Best-James
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3223795380908996
-  lightness: 0.4992845975793898
-  saturation: 0.15823369100689888
-  rhythmicContrast: 0.08994138101115823
 purpose: []
