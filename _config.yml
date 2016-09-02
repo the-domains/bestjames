@@ -28,6 +28,9 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/josephbestjames'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/JosephBestJames'
+    type: external
 favicon: null
 title: Joseph Best-James
 purpose: []
