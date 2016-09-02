@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Joey's Story]]></title>
-        <description><![CDATA[Joey's Story]]></description>
+        <title><![CDATA[Joseph Best-James]]></title>
+        <description><![CDATA[Joseph Best-James]]></description>
         <link>https://thegrid.ai/bestjames/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 02:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 19:03:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bestjames/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4bc0474-1f06-4391-8764-e9f3e2084c90.jpg" alt="College.">]]></description>
+            <link>https://thegrid.ai/bestjames/cf5b5b30-d0c3-4155-bb4e-065b3ff69083/index.html</link>
+            <guid isPermaLink="false">cf5b5b30-d0c3-4155-bb4e-065b3ff69083</guid>
+            <pubDate>Tue, 30 Aug 2016 19:03:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Family.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34b569b0-3da8-45f0-b1e9-6f20fa298399.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/bestjames/work-on-everything-until-you-figure-out-what-to-work-on-the/index.html</link>
             <guid isPermaLink="false">9c2779b4-940d-432f-af28-fc97007ed6b5</guid>
             <pubDate>Sat, 21 May 2016 02:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4bc0474-1f06-4391-8764-e9f3e2084c90.jpg">]]></description>
-            <link>https://thegrid.ai/bestjames/cf5b5b30-d0c3-4155-bb4e-065b3ff69083/index.html</link>
-            <guid isPermaLink="false">cf5b5b30-d0c3-4155-bb4e-065b3ff69083</guid>
-            <pubDate>Sat, 21 May 2016 01:57:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
