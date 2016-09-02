@@ -1,4 +1,3 @@
-layout_spectrum: 0.26916548050940037
 typography_spectrum: 0.2962125185877085
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.4080008650198579
   saturation: 0.22273088968358934
   rhythmicContrast: 0.7049022542778403
-name: Best James
-favicon: null
-title: Joseph Best-James
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.26916548050940037
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Best James
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: LinkedIn
+    url: 'https://www.linkedin.com/in/josephbestjames'
+    type: external
+favicon: null
+title: Joseph Best-James
 purpose: []
